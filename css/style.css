@@ -32,3 +32,11 @@ a{
   color:#130f40;
   background-color: #c7ecee;
 }
+/*Footer*/
+footer{
+  padding: 10px 60px;
+  background-color: #95afc0;
+  text-align: center;
+  font-size: 10px;
+  color: #30336b;
+}
